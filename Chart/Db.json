@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "title": "simple dress",
+      "price": "185",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "title": "fitted dress",
+      "price": "174",
+      "rating": 3
+    },
+    {
+      "id": "4",
+      "title": "belted top",
+      "price": "98",
+      "rating": 5
+    },
+    {
+      "id": "5",
+      "title": "waist dress",
+      "price": "230",
+      "rating": 4
+    },
+    {
+      "id": "6",
+      "title": "crop top",
+      "price": "121",
+      "rating": 3
+    },
+    {
+      "id": "7",
+      "title": "sleeveless dress",
+      "price": "290",
+      "rating": 5
+    },
+    {
+      "id": "8",
+      "title": "maxi dress",
+      "price": "266",
+      "rating": 2
+    },
+    {
+      "id": "9",
+      "title": "mini skirt",
+      "price": "285",
+      "rating": 5
+    },
+    {
+      "id": "22",
+      "title": "sample",
+      "price": 200,
+      "rating": 3
+    },
+    {
+      "id": "122",
+      "title": "sample",
+      "price": 200,
+      "rating": 3
+    }
+  ]
+}
